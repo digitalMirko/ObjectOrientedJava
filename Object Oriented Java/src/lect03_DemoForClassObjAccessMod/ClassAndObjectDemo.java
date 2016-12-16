@@ -29,6 +29,7 @@ class ComputerSystem
 	{
 		System.out.println("Starting System...");
 		StartSystem();
+		System.out.println("Testing 1, 2, 3...");
 	}
 }
 
